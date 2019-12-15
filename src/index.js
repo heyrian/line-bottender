@@ -22,5 +22,5 @@ module.exports = async function App(context) {
 //不成功
 
 // module.exports = async function App(context) {
-//   await context.linkRichMenu('richmenu-1d59f1c2028b05126b723c7eb2aa5576');
+//   await context.linkRichMenu('RICHMENU_ID');
 // };

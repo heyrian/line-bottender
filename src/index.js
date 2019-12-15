@@ -1,6 +1,6 @@
 //不成功
 module.exports = async function App(context) {
-  await context.sendFlex({
+  await context.sendFlex('Hello World!', {
     type: 'bubble',
     body: {
       type: 'box',
